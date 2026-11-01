@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+scipy
+PyWavelets
+joblib
+xgboost
+kagglehub
