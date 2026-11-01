@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+venv/
+myenv/
+env/
+
+# Data and outputs
+dataset_blood_group/
+*.csv
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
